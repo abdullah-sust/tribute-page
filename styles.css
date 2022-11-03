@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#main {
+  margin: 30px 8px 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #eee;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#title,
+#subject,
+p {
+  text-align: center;
+}
+
+#img-div {
+  padding: 10px;
+  text-align: center;
+  background-color: white;
+}
+
+ul {
+  width: 33.33%;
+}
+
+span {
+  font-weight: bold;
+}
+
+li {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: underline;
+}
+
+.bold {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#life-section {
+  display: flex;
+  justify-content: center;
+}
